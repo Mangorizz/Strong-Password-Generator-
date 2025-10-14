@@ -47,3 +47,34 @@ elseif D3 == 3 then
 elseif D3 == 4 then
 	D3 = UpperCaseLetters[math.random(1, 26)
 end
+
+if D6 == 1 then 
+	D6 = SpecialCaracters[math.random(1, 6)
+elseif D6 == 2 then
+	D6 = Numbers[math.random(1, 9)
+elseif D6 == 3 then 
+	D6 = LowerCaseLetters[math.random(1, 26)
+elseif D6 == 4 then
+	D6 = UpperCaseLetters[math.random(1, 26)
+end
+
+if D6 == 1 then 
+	D6 = SpecialCaracters[math.random(1, 6)
+elseif D6 == 2 then
+	D6 = Numbers[math.random(1, 9)
+elseif D6 == 3 then 
+	D6 = LowerCaseLetters[math.random(1, 26)
+elseif D6 == 4 then
+	D6 = UpperCaseLetters[math.random(1, 26)
+end
+
+if D7 == 1 then 
+	D7 = SpecialCaracters[math.random(1, 6)
+elseif D7 == 2 then
+	D7 = Numbers[math.random(1, 9)
+elseif D7 == 3 then 
+	D7 = LowerCaseLetters[math.random(1, 26)
+elseif D7 == 4 then
+	D7 = UpperCaseLetters[math.random(1, 26)
+end
+
