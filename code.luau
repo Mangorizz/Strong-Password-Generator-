@@ -65,6 +65,7 @@ elseif D5 == 2 then
 elseif D5 == 3 then 
 	D5 = LowerCaseLetters[math.random(1, 26)]
 elseif D5 == 4 then
+end
 
 if D6 == 1 then 
 	D6 = SpecialCaracters[math.random(1, 6)]
