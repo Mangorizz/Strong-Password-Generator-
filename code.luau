@@ -48,15 +48,23 @@ elseif D3 == 4 then
 	D3 = UpperCaseLetters[math.random(1, 26)
 end
 
-if D6 == 1 then 
-	D6 = SpecialCaracters[math.random(1, 6)
-elseif D6 == 2 then
-	D6 = Numbers[math.random(1, 9)
-elseif D6 == 3 then 
-	D6 = LowerCaseLetters[math.random(1, 26)
-elseif D6 == 4 then
-	D6 = UpperCaseLetters[math.random(1, 26)
+if D4 == 1 then 
+	D4 = SpecialCaracters[math.random(1, 6)
+elseif D4 == 2 then
+	D4 = Numbers[math.random(1, 9)
+elseif D4 == 3 then 
+	D4 = LowerCaseLetters[math.random(1, 26)
+elseif D4 == 4 then
+	D4 = UpperCaseLetters[math.random(1, 26)
 end
+
+if D5 == 1 then 
+	D5 = SpecialCaracters[math.random(1, 6)
+elseif D5 == 2 then
+	D5 = Numbers[math.random(1, 9)
+elseif D5 == 3 then 
+	D5 = LowerCaseLetters[math.random(1, 26)
+elseif D5 == 4 then
 
 if D6 == 1 then 
 	D6 = SpecialCaracters[math.random(1, 6)
@@ -78,3 +86,80 @@ elseif D7 == 4 then
 	D7 = UpperCaseLetters[math.random(1, 26)
 end
 
+if D8 == 1 then 
+	D8 = SpecialCaracters[math.random(1, 6)
+elseif D8 == 2 then
+	D8 = Numbers[math.random(1, 9)
+elseif D8 == 3 then 
+	D8 = LowerCaseLetters[math.random(1, 26)
+elseif D8 == 4 then
+	D8 = UpperCaseLetters[math.random(1, 26)
+end
+
+if D9 == 1 then 
+	D9 = SpecialCaracters[math.random(1, 6)
+elseif D9 == 2 then
+	D9 = Numbers[math.random(1, 9)
+elseif D9 == 3 then 
+	D9 = LowerCaseLetters[math.random(1, 26)
+elseif D9 == 4 then
+	D9 = UpperCaseLetters[math.random(1, 26)
+end
+
+if D10 == 1 then 
+	D10 = SpecialCaracters[math.random(1, 6)
+elseif D10 == 2 then
+	D10 = Numbers[math.random(1, 9)
+elseif D10 == 3 then 
+	D10 = LowerCaseLetters[math.random(1, 26)
+elseif D10 == 4 then
+	D10 = UpperCaseLetters[math.random(1, 26)
+end
+
+if D11 == 1 then 
+	D11 = SpecialCaracters[math.random(1, 6)
+elseif D11 == 2 then
+	D11 = Numbers[math.random(1, 9)
+elseif D11 == 3 then 
+	D11 = LowerCaseLetters[math.random(1, 26)
+elseif D11 == 4 then
+	D11 = UpperCaseLetters[math.random(1, 26)
+end
+
+if D12 == 1 then 
+	D12 = SpecialCaracters[math.random(1, 6)
+elseif D12 == 2 then
+	D12 = Numbers[math.random(1, 9)
+elseif D12 == 3 then 
+	D12 = LowerCaseLetters[math.random(1, 26)
+elseif D12 == 4 then
+	D12 = UpperCaseLetters[math.random(1, 26)
+end
+
+elseif D13 == 2 then
+	D13 = Numbers[math.random(1, 9)
+elseif D13 == 3 then 
+	D13 = LowerCaseLetters[math.random(1, 26)
+elseif D13 == 4 then
+	D13 = UpperCaseLetters[math.random(1, 26)
+end
+
+if D14 == 1 then 
+	D14 = SpecialCaracters[math.random(1, 6)
+elseif D14 == 2 then
+	D14 = Numbers[math.random(1, 9)
+elseif D14 == 3 then 
+	D14 = LowerCaseLetters[math.random(1, 26)
+elseif D14 == 4 then
+	D14 = UpperCaseLetters[math.random(1, 26)
+end
+
+if D15 == 1 then 
+	D15 = SpecialCaracters[math.random(1, 6)
+elseif D15 == 2 then
+	D15 = Numbers[math.random(1, 9)
+elseif D15 == 3 then 
+	D15 = LowerCaseLetters[math.random(1, 26)
+elseif D15 == 4 then
+	D15 = UpperCaseLetters[math.random(1, 26)
+end
