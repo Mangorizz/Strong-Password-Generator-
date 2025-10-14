@@ -65,6 +65,7 @@ elseif D5 == 2 then
 elseif D5 == 3 then 
 	D5 = LowerCaseLetters[math.random(1, 26)]
 elseif D5 == 4 then
+	D5 = UpperCaseLetters[math.random(1, 6)]
 end
 
 if D6 == 1 then 
